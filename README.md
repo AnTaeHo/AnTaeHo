@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+<h3 align="center">🌐 Blog 🌐</h3>
+<p align="center">
+  <a href="https://velog.io/@taaaaate"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+</p>
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taaate&layout=compact&theme=default&langs_count=10" />
