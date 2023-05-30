@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=An%20Tae%20Ho.😄&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=An%20Tae%20Ho.😄&fontSize=90" />
 </p>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
