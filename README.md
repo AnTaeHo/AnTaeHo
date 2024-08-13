@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
 </p>
 
-<h3 align="center">🌐 Blog 🌐</h3>
-<p align="center">
-  <a href="https://velog.io/@taaaaate"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
-</p>
 
 
 
